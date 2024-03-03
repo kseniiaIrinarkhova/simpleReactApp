@@ -10,7 +10,9 @@ function App() {
   return (
     <>
      <Header />
-     <Content/>
+      <Content color="darkblue" text="This is my first React Application!" />
+      <Content color="darkred" text="Wish me luck..." />
+      <Content color="darkcyan" text="I think I've got it!" />
      <Footer/>
     </>
   )
