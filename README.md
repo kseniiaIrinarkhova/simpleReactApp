@@ -1,3 +1,3 @@
 # Simple React Application
 
-Based on Vite.
+Based on Vite (React + Javascript).
